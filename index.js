@@ -222,7 +222,7 @@ module.exports = {
     "indentation": 2,
     "max-empty-lines": null,
     "max-line-length": null,
-    "max-nesting-depth": 6,
+    "max-nesting-depth": null,
     "no-descending-specificity": null,
     "no-duplicate-selectors": null,
     "no-empty-source": null,
