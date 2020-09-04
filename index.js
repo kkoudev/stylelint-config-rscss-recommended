@@ -31,7 +31,7 @@ module.exports = {
     "function-parentheses-space-inside": "never-single-line",
     "function-url-no-scheme-relative": null,
     "function-url-quotes": "always",
-    "function-url-scheme-whitelist": [
+    "function-url-scheme-allowed-list": [
       "http",
       "https",
       "data"
@@ -210,7 +210,7 @@ module.exports = {
     "at-rule-no-vendor-prefix": null,
     "at-rule-semicolon-newline-after": null,
     "at-rule-semicolon-space-before": "never",
-    "at-rule-whitelist": null,
+    "at-rule-allowed-list": null,
 
     // Comment
     "comment-empty-line-before": null,
