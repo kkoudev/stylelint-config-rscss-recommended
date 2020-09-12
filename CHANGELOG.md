@@ -1,3 +1,9 @@
+# 1.3.1
+
+## Changed
+
+-   peerDependencies version for stylelint.
+
 # 1.3.0
 
 ## Changed
